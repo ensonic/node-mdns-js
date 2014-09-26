@@ -4,8 +4,9 @@ mDNS-js
 Pure JavaScript/NodeJS mDNS discovery implementation.
 
 A lot of the functionality is copied from 
-https://github.com/GoogleChrome/chrome-app-samples/tree/master/mdns-browser
+https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/mdns-browser
 but adapted for node.
+
 
 Install by
 
@@ -81,6 +82,7 @@ References
 * https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/mdns-browser
 * http://en.wikipedia.org/wiki/Multicast_DNS
 * http://en.wikipedia.org/wiki/Zero_configuration_networking#Service_discovery
+* http://en.wikipedia.org/wiki/List_of_DNS_record_types
 * RFC 6762 - mDNS - http://tools.ietf.org/html/rfc6762
 * RFC 6763 - DNS Based Service Discovery - http://tools.ietf.org/html/rfc6763
 * http://www.tcpipguide.com/free/t_DNSMessageHeaderandQuestionSectionFormat.htm
